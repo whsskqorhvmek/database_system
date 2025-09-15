@@ -15,5 +15,6 @@
 -   DDL/DML
 
 
-더 자세한 내용은 TermProject_HR_분석.sql 파일을 참고하세요.
+더 자세한 내용은 [TermProject_HR_분석.sql](https://github.com/whsskqorhvmek/database_system/blob/4a27dc538114b33128fe88f4e6a5bc5cc57a05a1/TermProject_HR_%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8.sql) 파일을 참고하세요.
+
 
