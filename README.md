@@ -14,4 +14,5 @@
 -   SQL
 -   DDL/DML
 
-더 자세한 내용은 [TermProject_HR_분석.md](TermProject_HR_분석.md) 파일을 참고하세요.
+
+더 자세한 내용은 [TermProject_HR_분석.sql](TermProject_HR_분석.sql) 파일을 참고하세요.
